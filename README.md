@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a second year undergrad at university of washington
+* ☺️ new to programming and github. 
+* 🤔 trying to find somethings to work on 
+* 📖 reading programming language related books
