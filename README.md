@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - hhhhh
 -->
-I'm a second year undergrad at university of washington
+I'm a third year undergrad at UMass Amherst
 * ☺️ newbie on programming and github. 
 * 🤔 trying to find somethings to work on 
 * 📖 reading programming language related books
